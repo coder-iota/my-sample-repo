@@ -2,3 +2,5 @@
 This is a demo repo for #include's session.
 
 This is a change through the GitHub Web.
+
+This is a change through the Git CLI.
